@@ -9,4 +9,8 @@ In an era where fake WhatsApp forwards and Tweets are capable of influencing nai
 
 # ML formulation of the business problem
 
+# Deployed Fake news Detector Application
+
+  ![image](https://user-images.githubusercontent.com/92272579/171403459-f495f5dd-5f30-4cab-98cd-63c63d22e78e.png)
+
 # Contact : -
