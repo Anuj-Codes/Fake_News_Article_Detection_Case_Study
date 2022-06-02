@@ -28,7 +28,7 @@ My detailed approach can be viewed in this medium article.
 | - | --------------------- | ----------- |----------- |
 | 1. | Gaussian NB | 0.87747 |0.88205
 | 2. | Logistic Regression | 0.96483 |0.96794 
-| 3. | Xgboost Classifier | 0.96595 |0.97179
+| 3. | Xgboost Classifier | 0.96895 |0.97179
 | 4. | Decision Tree | 0.94917 |0.95448
 | 5. | Lightgbm Classifier | 0.97472 |0.97435
 | 6. | Voting Classififer(Soft) | 0.97307|0.97564
