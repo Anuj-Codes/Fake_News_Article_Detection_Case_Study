@@ -24,7 +24,7 @@ It is Binary classification 1 for Fake or unreliable articles and 0 for not fake
 
 My detailed approach can be viewed in this medium article.
 # Results
-| Sl No. | Model | Kaggle Public score | Kaggle Private score |
+| Sl No. | Model | Kaggle Private score | Kaggle Public score |
 | - | --------------------- | ----------- |----------- |
 | 1. | Gaussian NB | 0.87747 |0.88205
 | 2. | Logistic Regression | 0.96483 |0.96794 
