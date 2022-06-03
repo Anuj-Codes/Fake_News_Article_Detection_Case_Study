@@ -25,6 +25,9 @@ It is Binary classification 1 for Fake or unreliable articles and 0 for not fake
   ![image](https://user-images.githubusercontent.com/92272579/171403459-f495f5dd-5f30-4cab-98cd-63c63d22e78e.png)
 
 My detailed approach can be viewed in this medium article.
+
+Medium blog :-https://medium.com/@anujmlcode/table-of-contents-5e8bafecdf4e
+
 # Results
 | Sl No. | Model | Kaggle Private score | Kaggle Public score |
 | - | --------------------- | ----------- |----------- |
