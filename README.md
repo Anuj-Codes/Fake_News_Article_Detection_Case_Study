@@ -12,7 +12,8 @@ Fake news identification from online social media is extremely challenging due t
 
 # Business problem
 This case study is about fake news detection and developing a machine learning program to identify when an article might be fake news.
-This is one of the kaggle problem named as Fake News Build a system to identify unreliable news articles
+This is one of the kaggle problem named as Fake News Build a system to identify unreliable news articles.
+
 Kaggle url :-https://www.kaggle.com/competitions/fake-news/overview
 
 # ML formulation of the business problem
