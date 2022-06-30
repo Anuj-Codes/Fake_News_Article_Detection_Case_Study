@@ -20,9 +20,9 @@ Kaggle url :-https://www.kaggle.com/competitions/fake-news/overview
 Given a text Article, we have to identify whether it's a fake article or not.
 It is Binary classification 1 for Fake or unreliable articles and 0 for not fake or reliable articles
 
-# Deployed Fake News Detector Application
+# Deployed Fake News Detector Application Demo
 
-  ![image](https://user-images.githubusercontent.com/92272579/171403459-f495f5dd-5f30-4cab-98cd-63c63d22e78e.png)
+  ![Fake_News_App_demo](https://user-images.githubusercontent.com/92272579/176698773-4547a735-7b6b-4c5a-8da8-e01f11e11106.gif)
 
 My detailed approach can be viewed in this medium article.
 
